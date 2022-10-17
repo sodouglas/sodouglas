@@ -14,7 +14,9 @@ Feel free to reach out to me at <a href="mailto:douglasso@protonmail.com">dougla
 
 <strong>Technologies</strong>
 <a href="https://www.python.org/"><img src="https://github.com/duplxey/duplxey/blob/main/assets/technologies/python.png?raw=true" width="24" height="24"></a> <a href="https://www.djangoproject.com/"><img src="https://github.com/duplxey/duplxey/blob/main/assets/technologies/django.png?raw=true" width="24" height="24"></a> <a href="https://www.typescriptlang.org/"><img src="https://github.com/duplxey/duplxey/blob/main/assets/technologies/typescript.png?raw=true" width="24" height="24"></a> <a href="https://reactjs.org/"><img src="https://github.com/duplxey/duplxey/blob/main/assets/technologies/react.png?raw=true" width="24" height="24"></a> <a href="https://nextjs.org/"><img src="https://github.com/duplxey/duplxey/blob/main/assets/technologies/nextjs.png?raw=true" width="24" height="24"> <a href="https://www.postgresql.org/"><img src="https://github.com/duplxey/duplxey/blob/main/assets/technologies/postgresql.png?raw=true" width="24" height="24"></a> <a href="https://www.docker.com/"><img src="https://github.com/duplxey/duplxey/blob/main/assets/technologies/docker.png?raw=true" width="24" height="24"></a> <a href="https://aws.amazon.com/"><img src="https://github.com/duplxey/duplxey/blob/main/assets/technologies/aws.png?raw=true" width="24" height="24"></a>
-
+<!--
+Add: Java, Angular, Kubernetes
+-->
 Outside of programming, I enjoy film photography
 and playing music (busking -- drums and piano)!
 </pre>
