@@ -17,8 +17,8 @@ Feel free to reach out to me at <a href="mailto:douglasso@protonmail.com">dougla
 <!--
 Add: Java, Angular, Kubernetes
 -->
-Outside of programming, I enjoy film photography
-and playing music (busking -- drums and piano)!
+Outside of programming, I enjoy <a href="https://www.instagram.com/dso.film/">film photography</a>
+and playing the drums and piano!
 </pre>
 <!--
 **sodouglas/sodouglas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
