@@ -1,3 +1,4 @@
+<!--
 <pre>
 <h2>👀 Open for work!</h2>
 I'm currently on the lookout for <b>fullstack, backend and 
@@ -6,6 +7,7 @@ Feel free to reach out to me at <a href="mailto:douglasso@protonmail.com">dougla
 
 📕 Resume: <a href="https://github.com/sodouglas/sodouglas/raw/main/Douglas%20So%20Resume.pdf">Douglas So Resume</a> 
 </pre>
+-->
 
 <pre>
 💻 Full Stack Developer
